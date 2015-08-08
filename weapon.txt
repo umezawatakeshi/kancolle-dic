@@ -1,0 +1,29 @@
+!Microsoft IME Dictionary Tool
+!Version:
+!Format:WORDLIST
+!User Dictionary Name: C:\Users\anonymous\AppData\Roaming\Microsoft\IMJP14\imjp14cu.dic
+!Output File Name: C:\Users\anonymous\Documents\output1.txt
+!DateTime: 2013年07月17日 21:26
+
+かんてい	艦偵	名詞
+すいてい	水偵	名詞
+すいかん	水観	名詞
+やてい	夜偵	名詞
+たんしんぎ	探信儀	名詞
+ふんしんほう	噴進砲	名詞
+すいじょうき	水上機	名詞
+てっこうだん	徹甲弾	名詞
+りゅうだん	榴弾	名詞
+ばくせん	爆戦	名詞
+こうしゃそうち	高射装置	名詞
+
+ずいうん	瑞雲	固有名詞
+こうひょうてき	甲標的	固有名詞
+さいうん	彩雲	固有名詞
+だいはつ	大発	固有名詞
+れいてい	零偵	固有名詞
+れいかん	零観	固有名詞
+にしきたいてい	二式大艇	固有名詞
+にしきだいてい	二式大艇	固有名詞
+
+たんそう	単装	名詞
