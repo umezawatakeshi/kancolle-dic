@@ -2,7 +2,7 @@
 
 この zip には以下のファイルが含まれています。
 
-  _readme.txt    このファイル
+  readme.txt     このファイル
   ship1.txt      艦船名（人名扱い）
   ship2.txt      艦船名（固有名詞扱い）
   shiptype.txt   艦種
