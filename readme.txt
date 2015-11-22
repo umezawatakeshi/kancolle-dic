@@ -18,6 +18,9 @@ ship1/2.txt では、システム辞書に含まれているかどうかに関わらず、全ての艦船名を収
 最近のメジャーな IME は他のメジャーな IME の形式を読み込むことができます。
 ATOK と Google IME では読み込めたという報告があります。
 
+ソースは GitHub https://github.com/umezawatakeshi/kancolle-dic で公開しています。
+リポジトリでは適宜修正が行われているため、最新状態が必要な場合はそちらを参照してください。
+
 ----
 作成者  : 梅澤威志/ゆーむ＠横鎮
 blog    : http://umezawa.dyndns.info/
