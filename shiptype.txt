@@ -5,13 +5,21 @@
 !Output File Name: C:\Users\anonymous\Documents\output1.txt
 !DateTime: 2013”N07ŒŽ17“ú 21:26
 
+‚¹‚ñ‚©‚ñ	íŠÍ	–¼ŽŒ
 ‚±‚¤‚­‚¤‚¹‚ñ‚©‚ñ	q‹óíŠÍ	–¼ŽŒ
 ‚±‚¤‚¹‚ñ	qí	–¼ŽŒ
+‚¶‚ã‚¤‚¶‚ã‚ñ‚æ‚¤‚©‚ñ	d„—mŠÍ	–¼ŽŒ
+‚¶‚ã‚¤‚¶‚ã‚ñ	d„	–¼ŽŒ
 ‚±‚¤‚­‚¤‚¶‚ã‚ñ‚æ‚¤‚©‚ñ	q‹ó„—mŠÍ	–¼ŽŒ
 ‚±‚¤‚¶‚ã‚ñ	q„	–¼ŽŒ
+‚¯‚¢‚¶‚ã‚ñ‚æ‚¤‚©‚ñ	Œy„—mŠÍ	–¼ŽŒ
+‚¯‚¢‚¶‚ã‚ñ	Œy„	–¼ŽŒ
 ‚¶‚ã‚¤‚ç‚¢‚»‚¤‚¶‚ã‚ñ‚æ‚¤‚©‚ñ	d—‹‘•„—mŠÍ	–¼ŽŒ
 ‚ç‚¢‚¶‚ã‚ñ	—‹„	–¼ŽŒ
 ‚¶‚ã‚¤‚ç‚¢‚»‚¤‚©‚ñ	d—‹‘•ŠÍ	–¼ŽŒ
+‚­‚¿‚­‚©‚ñ	‹ì’€ŠÍ	–¼ŽŒ
+‚±‚¤‚­‚¤‚Ú‚©‚ñ	q‹ó•êŠÍ	–¼ŽŒ
+‚­‚¤‚Ú	‹ó•ê	–¼ŽŒ
 ‚¹‚¢‚«‚­‚¤‚Ú	³‹K‹ó•ê	–¼ŽŒ
 ‚»‚¤‚±‚¤‚­‚¤‚Ú	‘•b‹ó•ê	–¼ŽŒ
 ‚»‚¤‚Ú	‘••ê	–¼ŽŒ
@@ -24,6 +32,7 @@
 ‚¹‚ñ‚·‚¢‚Ú‚©‚ñ	ö…•êŠÍ	–¼ŽŒ
 ‚¹‚ñ‚Ú‚©‚ñ	ö•êŠÍ	–¼ŽŒ
 ‚±‚¤‚³‚­‚©‚ñ	HìŠÍ	–¼ŽŒ
+‚æ‚¤‚è‚­‚©‚ñ	—g—¤ŠÍ	–¼ŽŒ
 ‚ê‚ñ‚µ‚ã‚¤‚¶‚ã‚ñ‚æ‚¤‚©‚ñ	—ûK„—mŠÍ	–¼ŽŒ
 ‚ê‚ñ‚¶‚ã‚ñ	—û„	–¼ŽŒ
 
